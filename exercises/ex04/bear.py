@@ -6,7 +6,7 @@ __author__ = "730621803"
 
 
 class Bear:
-    """Class for Bear"""
+    """Class for Bear in a ecosystem."""
 
     def __init__(self):
         """Initialize a Bear with age 0 and hunger_score 0."""
